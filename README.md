@@ -108,7 +108,10 @@ Fix $$n \ge 2$$ and a Hölder exponent $$0 < \alpha < 1$$. The manuscript proves
 
 ## Citing a manuscript
 
-Use the full manuscript title and the date printed in the PDF. Include the [repository URL](https://github.com/mingfeng87/Hot-Spot-Conjecture) and the commit hash or a commit-specific PDF link for the version consulted, so that the cited draft can be identified after revisions.
+Use the full manuscript title and the date printed in the PDF, use M. Zhao et al. as the author of PDF files. Include the
+[repository URL](https://github.com/mingfeng87/Hot-Spot-Conjecture)
+and the commit hash or a commit-specific PDF link for the version consulted,
+so that the cited draft can be identified after revisions.
 
 * * *
 
